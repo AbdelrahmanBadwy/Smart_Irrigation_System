@@ -48,5 +48,6 @@ If you're interested in contributing to the project, please adhere to the follow
 ## Contact Information
 
 If you have any questions, feedback, or suggestions, feel free to reach out to us at [abdoo738@yahoo.com] We value your input and would be glad to hear from you!
+
 my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/].
 Thank you for your interest in the Smart Irrigation System with Temperature Sensor project. Your contributions and insights are greatly appreciated. Happy gardening!
